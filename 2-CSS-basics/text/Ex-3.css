@@ -1,0 +1,33 @@
+.verdana-font{
+    font-family: Verdana;
+    font-weight: bold;
+    text-align: left;
+    }
+    
+    .verdana-font-2{
+    font-family: Verdana;
+    color: grey;
+    margin-bottom: 15px;
+    text-align: left;
+    }
+    
+    .verdana-font-subline{
+    font-family: Verdana;
+    width: 280px;
+    margin-bottom: 15px;
+    text-align: left;
+    }
+    
+    .get-started{
+    font-family: Verdana;
+    background-color: rgb(20, 135, 20);
+    color:white;
+    border: none;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 6px;
+    margin-bottom: 50px;
+    }
+    

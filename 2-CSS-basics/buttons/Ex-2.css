@@ -1,0 +1,86 @@
+
+.getstarted{
+    margin-top: 5px;
+    background: rgb(121, 82, 179);
+    color: white;
+    width: 115px;
+    height: 36px;
+    border: none;
+    font-weight: bold;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    transition: background-color 0.15s;
+}
+
+.getstarted:hover{
+    background-color: rgb(109, 55, 189);
+}
+
+.getstarted:active{
+    opacity: 0.5;
+}
+
+.download{
+    background: white;;
+    color: rgb(108, 117, 125);
+    border-radius: 3px;
+    border-color: rgb(184, 183, 183);
+    width: 115px;
+    height: 36px;
+    font-weight: bold; 
+    cursor: pointer;
+    margin-bottom: 5px;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+.download:hover{
+    background-color: grey;
+    color: white;
+}
+
+.download:active{
+    opacity: 0.5;
+}
+
+.apply{
+    background-color: rgb(10,102,194);
+    color: white;
+    font-weight: bold;
+    border-radius: 18px;
+    width: 210px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+.apply:hover{
+    background-color: rgb(1, 68, 135);
+}
+
+.apply:active{
+    opacity: 0.5;
+}
+
+.save{
+    background-color: white;
+    border-color: rgb(10, 102, 194);
+    color: rgb(10,102,194);
+    border-radius: 18px;
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    transition: background-color 0.15s;
+}
+
+.save:hover{
+    background-color:rgb(208, 231, 255);
+}
+
+.save:active{
+    opacity: 0.5;
+}

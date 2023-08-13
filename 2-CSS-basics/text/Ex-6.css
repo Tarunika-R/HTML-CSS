@@ -1,0 +1,38 @@
+p{
+    font-family: Arial;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.cost{
+    font-family: 'arial';
+    text-align: left;
+    margin-top: 50px;
+    font-size: 50px;
+    }
+    
+.usd{
+    font-size: 25px;
+    color: grey;
+    font-weight: none;
+}
+    
+.today{
+    color: green;
+    text-align: left;
+    font-size: 25px;
+    margin-top: 5px;
+}
+    
+.after-hour{
+    text-align: left;
+    font-size: 25px;
+    color: grey;
+    margin-top: 5px;
+}
+    
+.red-color{
+    color: rgb(219, 1, 1);
+}
+    

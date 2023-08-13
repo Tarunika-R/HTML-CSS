@@ -1,0 +1,158 @@
+.subscribe-button{
+    background-color: rgb(204, 0, 0);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    margin-left: 20px;
+    transition: opacity 0.15s;
+    vertical-align: top;
+}
+
+.subscribe-button:hover{
+    opacity: 0.8;
+}
+
+.subscribe-button:active{
+    opacity: 0.5;
+}
+.join{
+    background-color: white;
+    border-color: rgb(6, 95, 212);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(6, 95, 212); 
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition: background-color 0.15s, color 0.15s; 
+    vertical-align: top;
+}
+
+.join:hover{
+    background-color: rgb(6, 95, 212);
+    color: white;
+}
+
+.join:active{
+    opacity: 0.7;
+}
+
+.tweet{
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: rgb(255, 255, 255);
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 50px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+    vertical-align: top;
+}
+.tweet:hover{
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.15); 
+}
+
+.stretch{
+    margin-top: 10px;
+    background-color: rgb(10, 130, 10);
+    color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    border: none;
+    transition: padding 0.35s; 
+    cursor: pointer;
+}
+
+.stretch:hover{
+    padding: 15px 25px;
+}
+
+.stretch:active{
+    opacity: 0.5;
+}
+
+.shadow{
+    margin-top: 10px;
+    background-color: rgb(10, 130, 10);
+    color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.35);
+    transition: box-shadow 0.15s;
+    cursor: pointer;
+}
+
+.shadow:focus{
+    box-shadow: 0px 0px 0px rgba(0,0,0,0.35);
+}
+
+.one{
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: rgb(10, 130, 10);
+    color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    cursor: pointer;
+    transition: padding 0.15s;
+}
+
+.one:hover{
+    padding: 4px 15px;
+}
+.two{
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: rgb(10, 130, 10);
+    color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    cursor: pointer;
+    transition: padding 0.15s;
+}
+
+.two:hover{
+    padding: 4px 15px;
+}
+
+.three{
+    margin-top: 10px;
+    background-color: rgb(10, 130, 10);
+    color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: none;
+    cursor: pointer;
+    transition: padding 0.15s;
+}
+
+.three:hover{
+    padding: 4px 15px;
+}

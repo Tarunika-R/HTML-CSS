@@ -1,0 +1,57 @@
+.requestnow{
+    margin-top: 5px; 
+    background-color: black;
+    color: white;
+    width: 115px;
+    height: 36px;
+    border: none;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.requestnow:hover{
+    opacity: 0.8;
+}
+
+.requestnow:active{
+    opacity: 0.5;
+}
+
+.addtocart{
+    margin-top: 5px;
+    background: rgb(255,216,20);
+    border: none;
+    border-radius: 18px;
+    width: 145px;
+    height: 25px;
+    cursor: pointer;
+    transition: background-color 0.15s, opacity 0.15s;
+}
+
+.addtocart:hover{
+    background-color: rgb(250, 240, 40);
+}
+
+.addtocart:active{
+    opacity: 0.5;
+}
+
+.signup{
+    margin-top: 5px;
+    background: rgb(46, 164, 76);
+    color: white;
+    width: 90px;
+    height: 36px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: box-shadow 0.15s, opacity 0.15s;
+}
+
+.signup:hover{
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.15);
+}
+
+.signup:active{
+    opacity: 0.5;
+}

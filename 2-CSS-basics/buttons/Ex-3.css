@@ -1,0 +1,95 @@
+
+.amazon{
+    color: blue;
+    transition: color 0.15s;
+}
+
+.amazon-link:hover{
+    color: rgb(193, 125, 0);
+}
+
+.nike-shoes{
+    font-weight: bold;
+    font-size: larger;
+}
+.price{
+    color: green;
+    font-weight: bolder;
+    font-size: medium;
+}
+.delivery{
+    font-weight: 100;
+    font-size: medium;
+}
+.add-cart{
+    margin-top: 5px;
+    background: rgb(255,216,20);
+    border: none;
+    border-radius: 18px;
+    width: 105px;
+    height: 25;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.15s;
+}
+
+.add-cart:hover{
+    background-color: rgb(223, 187, 7);
+}
+
+.add-cart:active{
+    opacity: 0.5;
+}
+
+.buy{
+    border: none;
+    background-color: orange;
+    border-radius: 18px;
+    width: 105px;
+    height: 25;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+
+.buy:hover{
+    background-color: rgb(224, 126, 21);
+}
+
+.buy:active{
+    opacity: 0.5;
+}
+
+.back{
+    margin-top: 20px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.link1{
+    margin-right: 7px;
+    cursor: pointer;
+}
+
+.link2{
+    margin-right: 7px;
+    cursor: pointer;
+}
+
+.link3{
+    margin-right: 7px;
+    cursor: pointer;
+}
+
+.link4{
+    margin-right: 7px;
+    cursor: pointer;
+}
+
+.link5{
+    margin-right: 7px;
+    cursor: pointer;
+}
+.next{
+    margin-left: 7px;
+    cursor: pointer;
+}

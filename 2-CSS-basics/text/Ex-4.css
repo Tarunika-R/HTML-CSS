@@ -1,0 +1,28 @@
+.shopping-arial{
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 13px;
+    }
+    
+    .apple-work{
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 13px;
+    }
+    
+    .learn-more{
+    font-family: Arial;
+    text-align: center;
+    color: blue;
+    margin-bottom: 50px;
+    }
+    
+    .learn-more:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    
+    }
+    
